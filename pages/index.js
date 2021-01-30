@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "../components/layout";
+import Layout from "./Layout";
 import Head from 'next/head'
 
 const index = () => {
